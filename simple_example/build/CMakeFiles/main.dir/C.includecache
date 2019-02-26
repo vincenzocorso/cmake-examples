@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/module.h
+
+/home/mrcoder/Scrivania/cmake_c_project/simple_example/src/main.c
+stdio.h
+-
+module.h
+/home/mrcoder/Scrivania/cmake_c_project/simple_example/src/module.h
+
+/home/mrcoder/Scrivania/cmake_c_project/simple_example/src/module.c
+module.h
+/home/mrcoder/Scrivania/cmake_c_project/simple_example/src/module.h
+
