@@ -1,3 +1,0 @@
-/home/mrcoder/Scrivania/cmake_c_project/simple_example/build/CMakeFiles/rebuild_cache.dir
-/home/mrcoder/Scrivania/cmake_c_project/simple_example/build/CMakeFiles/main.dir
-/home/mrcoder/Scrivania/cmake_c_project/simple_example/build/CMakeFiles/edit_cache.dir
